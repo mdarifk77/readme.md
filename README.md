@@ -4,8 +4,7 @@ INSPIRE TO SOFTWARE ENGINEER
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
-![WEB DEVELOPMENT](https://img.shields.io/badge/WEB DEVELOPMENT-green?style=for-the-badge&logo=WEB DEVELOPMENT)
----
+
 
 ## 📊 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=mdarifk77&show_icons=true&theme=radical)
