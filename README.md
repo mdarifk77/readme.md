@@ -1,5 +1,10 @@
-# 👋 Hi, I'm MD ARIF KARIM
-INSPIRE TO SOFTWARE ENGINEER
+<h1 align="center">Hii👋, I'm Md Arif Karim </h1>
+<h3 align="center">🚀 B.Tech Student | Learning DSA with JAVA | Data Analytics </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Data+Analytics;Open+Source+Contributor&center=true&width=500&height=50">
+</p>
+
 
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=java)
